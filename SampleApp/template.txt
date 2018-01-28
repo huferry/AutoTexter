@@ -1,0 +1,3 @@
+﻿-- Description: {description}
+-- Author: {author}
+insert into customer_types values ({id}, '{name}', '{desc}', {allowcreditcard});
